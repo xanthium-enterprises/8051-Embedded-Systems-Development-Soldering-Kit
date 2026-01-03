@@ -1,5 +1,7 @@
-# 8051-Embedded-Systems-Development-Soldering-Kit
+# 8051 Embedded Systems Development Soldering Kit 
 The 8051 Embedded Systems Development Soldering Kit is purpose-built for engineering students who want to learn embedded systems hands-on during their B tech degree program where  8051 is taught as a foundational Microcontroller platform.   Our Embedded System Soldering Kit contains W78E052DDG (8051 Microcontroller) as the heart of the board interfaced to a ADC0804 Analog Digital Converter and a 7 Segment Display Unit for displaying information.
+
+- [8051 Embedded Systems Development Soldering Kit with ADC0804, Opamp,ULN2003, and 7-Segment Displays](https://www.xanthium.in/nuvoton-w78e052-8051-development-board-usb-programmer-lm35-adc-0804-0809-relay-7segment-interfacing-kit)
 
 - ![8051 Micro controller Architecture](images/8051-block-diagram-simple.jpg)
 
