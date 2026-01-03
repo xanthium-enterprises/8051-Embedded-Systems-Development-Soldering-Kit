@@ -7,8 +7,13 @@ The 8051 Embedded Systems Development Soldering Kit is purpose-built for enginee
 
 - ![8051 Micro controller Architecture](images/8051-block-diagram-simple.jpg)
 
+
 # Programming 8051 using Serial ISP Programmer
 
 -![8051 ISP Hardware Programming Circuit](images/8051-w78e052ddg-microcontroller-programming-circuit.jpg)
 
 - [How to program 8051 Microcontroller using USB Virtual COM Port & Nuvoton 8051 ICP-ISP Programmer](https://www.xanthium.in/upload-code-nuvoton-w788e052ddg-8051-microcontroller-usb-virtual-com-port-tutorial)
+
+# 8051 Embedded Systems Tutorials
+
+- [8051/8052 UART Programming Tutorial for Beginners using Nuvoton W78E052DDG Microcontroller](https://www.xanthium.in/embedded-c-program-8051-uart-rs232-serial-port-communication-with-pc-tutorial)
