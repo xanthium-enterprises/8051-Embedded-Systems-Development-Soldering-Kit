@@ -3,6 +3,8 @@ The 8051 Embedded Systems Development Soldering Kit is purpose-built for enginee
 
 - [8051 Embedded Systems Development Soldering Kit with ADC0804, Opamp,ULN2003, and 7-Segment Displays](https://www.xanthium.in/nuvoton-w78e052-8051-development-board-usb-programmer-lm35-adc-0804-0809-relay-7segment-interfacing-kit)
 
+- [Build your own 8051 Embedded Systems Development board with ADC and 7 segment display from scratch](https://www.xanthium.in/diy-8051-embedded-development-board-adc-7segment-display-soldering-kit)
+
 - ![8051 Micro controller Architecture](images/8051-block-diagram-simple.jpg)
 
 - [How to program 8051 Microcontroller using USB Virtual COM Port & Nuvoton 8051 ICP-ISP Programmer](https://www.xanthium.in/upload-code-nuvoton-w788e052ddg-8051-microcontroller-usb-virtual-com-port-tutorial)
